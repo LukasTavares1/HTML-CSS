@@ -3,9 +3,8 @@
 Essa interface foi construída como um exemplo para aplicar meus conhecimentos de HTML5 e CSS3.
 
 ## 🚀 Começando
-O projeto foi dividido em duas partes, onde a primeira parte foi desenvolvida no primeiro curso de html e css
-da Alura que abordam os tópicos basicos das linguagens. Já a segunda parte foi desenvolvida nos cursos subsequentes,
-notando-se uma qualidade visual e usabilidade bem mais elaboradas.
+O projeto foi desenvolvido em paralelo ao curso de HTML e CSS da Alura no programa ONE. Foram abordados
+diversos contudos de estilização, usabilidade e também as boas práticas de desenvolvimento.
 
 ### 📋 Pré-requisitos
 
